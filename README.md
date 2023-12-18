@@ -1,4 +1,5 @@
 Hotel Bookings Exploratory Data Analysis
+
 Objective
 We are provided with a hotel bookings dataset.
 
